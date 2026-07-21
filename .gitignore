@@ -1,0 +1,38 @@
+# raw WESAD dataset - 2.1 GB, never commit
+S2/
+S3/
+S4/
+S5/
+S6/
+S7/
+S8/
+S9/
+S10/
+S11/
+S13/
+S14/
+S15/
+S16/
+S17/
+WESAD/
+*.pkl
+wesad_readme.pdf
+
+# generated outputs
+artifacts/
+*.png
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+!signal_overview.png
